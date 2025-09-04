@@ -1,0 +1,4 @@
+beautifulsoup4==4.13.5
+requests==2.*
+pyfiglet==1.0.3
+PyQt5==5.15.11

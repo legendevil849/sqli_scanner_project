@@ -1,0 +1,461 @@
+# MySQL Errors
+you have an error in your sql syntax
+warning: mysql
+mysql_fetch
+mysql_num_rows
+mysqli
+mysql_fetch_array()
+mysql_fetch_assoc()
+mysql_numrows()
+mysql_fetch_row()
+mysql_query()
+mysql_result()
+mysql_error()
+unknown column
+table doesn't exist
+column count doesn't match value count
+duplicate entry
+incorrect integer value
+incorrect double value
+incorrect string value
+data too long for column
+out of range value for column
+cannot be null
+access denied for user
+too many connections
+lost connection to mysql server
+server has gone away
+deadlock found
+lock wait timeout exceeded
+command out of sync
+can't create table
+can't drop table
+can't create database
+can't drop database
+error in your sql syntax
+syntax to use near
+at line 1
+
+# PostgreSQL Errors
+pg_query
+pg_connect
+postgresql
+psql:
+syntax error at or near
+relation does not exist
+column does not exist
+duplicate key value violates unique constraint
+value too long for type character varying
+invalid input syntax for integer
+null value in column violates not-null constraint
+permission denied for relation
+permission denied for schema
+could not serialize access due to concurrent update
+deadlock detected
+canceling statement due to conflict with recovery
+connection to server was lost
+no connection to the server
+server closed the connection unexpectedly
+current transaction is aborted
+foreign key violation
+check constraint violation
+
+# Microsoft SQL Server Errors
+microsoft odbc
+sql server
+oledbexception
+mssql
+unclosed quotation mark after the character string
+incorrect syntax near
+invalid column name
+invalid object name
+could not find stored procedure
+conversion failed when converting
+arithmetic overflow error
+string or binary data would be truncated
+the transaction log for database is full
+login failed for user
+a network-related or instance-specific error occurred
+timeout expired
+the timeout period elapsed prior to completion of the operation
+a severe error occurred on the current command
+the statement has been terminated
+subquery returned more than 1 value
+cannot insert the value null into column
+violation of primary key constraint
+violation of unique key constraint
+deadlock
+
+# Oracle Errors
+ora-
+oracle error
+quoted string not properly terminated
+invalid number
+missing expression
+missing right parenthesis
+invalid character
+table or view does not exist
+column not allowed here
+not enough values
+too many values
+unique constraint violated
+integrity constraint violated
+invalid username/password
+insufficient privileges
+table or view does not exist
+null into
+value larger than specified precision allowed for this column
+maximum open cursors exceeded
+deadlock detected while waiting for resource
+snapshot too old
+buffer overflow
+no data found
+too many rows
+connection refused
+tns:listener does not currently know of service requested in connect descriptor
+
+# SQLite Errors
+sqlite error
+sql logic error
+sqlite3
+no such table
+no such column
+near syntax error
+unsupported file format
+database disk image is malformed
+database or disk is full
+database is locked
+disk i/o error
+authorization denied
+not an error
+abort due to constraint violation
+datatype mismatch
+cannot start a transaction within a transaction
+unknown database
+table already exists
+column already exists
+index already exists
+trigger already exists
+view already exists
+
+# Generic SQL Errors
+syntax error
+type mismatch
+division by zero
+overflow
+underflow
+out of memory
+access violation
+connection failed
+connection timeout
+query timeout
+transaction rolled back
+constraint violation
+foreign key constraint fails
+unique constraint violation
+not null constraint violation
+check constraint violation
+invalid datetime format
+invalid escape sequence
+invalid escape character
+invalid parameter
+invalid use of null
+invalid cursor state
+invalid transaction state
+invalid authorization specification
+invalid connection string
+invalid sql statement
+invalid cursor name
+invalid schema name
+invalid catalog name
+invalid column name
+invalid table name
+invalid user name
+invalid password
+invalid privilege
+invalid role
+invalid grantor
+invalid grant operation
+invalid revoke operation
+invalid set transaction statement
+invalid set constraints statement
+invalid savepoint statement
+invalid transaction termination
+invalid connection handle
+invalid statement handle
+invalid descriptor handle
+invalid attribute
+invalid option
+invalid value
+invalid level
+invalid type
+invalid precision
+invalid scale
+invalid length
+invalid interval
+invalid indicator
+invalid parameter value
+invalid parameter index
+invalid attribute value
+invalid string length
+invalid string format
+invalid string buffer
+invalid descriptor field
+invalid descriptor index
+invalid cursor position
+invalid transaction
+invalid isolation level
+invalid lock mode
+invalid lock timeout
+invalid wait policy
+invalid access mode
+invalid recovery option
+invalid mirroring option
+invalid encryption option
+invalid compression option
+invalid backup option
+invalid restore option
+invalid replication option
+invalid clustering option
+invalid partitioning option
+invalid distribution option
+invalid sharding option
+invalid federation option
+invalid consistency option
+invalid durability option
+invalid availability option
+invalid scalability option
+invalid performance option
+invalid security option
+invalid auditing option
+invalid monitoring option
+invalid tuning option
+invalid optimization option
+invalid execution plan
+invalid query hint
+invalid join type
+invalid join condition
+invalid predicate
+invalid expression
+invalid operator
+invalid function
+invalid aggregate
+invalid window function
+invalid analytic function
+invalid ranking function
+invalid numbering function
+invalid grouping
+invalid ordering
+invalid filtering
+invalid projection
+invalid selection
+invalid transformation
+invalid conversion
+invalid casting
+invalid parsing
+invalid tokenization
+invalid compilation
+invalid interpretation
+invalid execution
+invalid evaluation
+invalid calculation
+invalid comparison
+invalid logical operation
+invalid bitwise operation
+invalid arithmetic operation
+invalid mathematical operation
+invalid statistical operation
+invalid financial operation
+invalid date operation
+invalid time operation
+invalid timestamp operation
+invalid interval operation
+invalid string operation
+invalid binary operation
+invalid blob operation
+invalid clob operation
+invalid xml operation
+invalid json operation
+invalid array operation
+invalid collection operation
+invalid object operation
+invalid reference operation
+invalid path operation
+invalid graph operation
+invalid spatial operation
+invalid geometric operation
+invalid geographic operation
+invalid network operation
+invalid hierarchical operation
+invalid recursive operation
+invalid iterative operation
+invalid parallel operation
+invalid distributed operation
+invalid concurrent operation
+invalid transactional operation
+invalid locking operation
+invalid versioning operation
+invalid snapshot operation
+invalid replication operation
+invalid mirroring operation
+invalid failover operation
+invalid recovery operation
+invalid backup operation
+invalid restore operation
+invalid migration operation
+invalid upgrade operation
+invalid downgrade operation
+invalid compatibility operation
+invalid interoperability operation
+invalid integration operation
+invalid federation operation
+invalid sharding operation
+invalid partitioning operation
+invalid distribution operation
+invalid clustering operation
+invalid indexing operation
+invalid hashing operation
+invalid sorting operation
+invalid searching operation
+invalid matching operation
+invalid joining operation
+invalid merging operation
+invalid splitting operation
+invalid aggregation operation
+invalid summarization operation
+invalid generalization operation
+invalid specialization operation
+invalid classification operation
+invalid categorization operation
+invalid clustering operation
+invalid segmentation operation
+invalid profiling operation
+invalid mining operation
+invalid learning operation
+invalid prediction operation
+invalid recommendation operation
+invalid optimization operation
+invalid tuning operation
+invalid configuration operation
+invalid administration operation
+invalid management operation
+invalid monitoring operation
+invalid auditing operation
+invalid security operation
+invalid authorization operation
+invalid authentication operation
+invalid encryption operation
+invalid decryption operation
+invalid hashing operation
+invalid signing operation
+invalid verification operation
+invalid validation operation
+invalid certification operation
+invalid accreditation operation
+invalid compliance operation
+invalid governance operation
+invalid risk operation
+invalid quality operation
+invalid reliability operation
+invalid availability operation
+invalid scalability operation
+invalid performance operation
+invalid efficiency operation
+invalid effectiveness operation
+invalid usability operation
+invalid accessibility operation
+invalid maintainability operation
+invalid portability operation
+invalid interoperability operation
+invalid compatibility operation
+invalid testability operation
+invalid debuggability operation
+invalid diagnosability operation
+invalid recoverability operation
+invalid survivability operation
+invalid durability operation
+invalid stability operation
+invalid robustness operation
+invalid resilience operation
+invalid fault tolerance operation
+invalid error handling operation
+invalid exception handling operation
+invalid logging operation
+invalid tracing operation
+invalid profiling operation
+invalid benchmarking operation
+invalid measurement operation
+invalid analysis operation
+invalid reporting operation
+invalid visualization operation
+invalid exploration operation
+invalid discovery operation
+invalid innovation operation
+invalid creation operation
+invalid modification operation
+invalid deletion operation
+invalid destruction operation
+invalid construction operation
+invalid reconstruction operation
+invalid deconstruction operation
+invalid transformation operation
+invalid translation operation
+invalid rotation operation
+invalid scaling operation
+invalid skewing operation
+invalid reflection operation
+invalid inversion operation
+invalid permutation operation
+invalid combination operation
+invalid derivation operation
+invalid integration operation
+invalid differentiation operation
+invalid optimization operation
+invalid minimization operation
+invalid maximization operation
+invalid estimation operation
+invalid approximation operation
+invalid interpolation operation
+invalid extrapolation operation
+invalid regression operation
+invalid correlation operation
+invalid causation operation
+invalid implication operation
+invalid deduction operation
+invalid induction operation
+invalid abduction operation
+invalid reasoning operation
+invalid inference operation
+invalid prediction operation
+invalid forecasting operation
+invalid planning operation
+invalid scheduling operation
+invalid coordination operation
+invalid synchronization operation
+invalid serialization operation
+invalid parallelization operation
+invalid distribution operation
+invalid aggregation operation
+invalid disaggregation operation
+invalid composition operation
+invalid decomposition operation
+invalid factorization operation
+invalid expansion operation
+invalid reduction operation
+invalid simplification operation
+invalid complexification operation
+invalid abstraction operation
+invalid concretization operation
+invalid generalization operation
+invalid specialization operation
+invalid instantiation operation
+invalid exemplification operation
+invalid representation operation
+invalid presentation operation
+invalid visualization operation
+invalid sonification operation
+invalid haptification operation
+invalid multimodalization operation
+invalid crossmodalization operation
+invalid transmodalization operation
+invalid amodalization operation
