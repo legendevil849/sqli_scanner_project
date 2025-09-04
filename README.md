@@ -18,14 +18,14 @@ Step I <br>
 ```bash
 git clone https://github.com/username/Evil-SQLi-Scanner.git
 ```
-Step II <br>
-- Go to the Sqli Scanner Directory <br>
+Step II <br><br>
+Go to the Sqli Scanner Directory <br><br>
 Step III <br>
 ```bash
 python -m pip install -r requirements.txt
 ```
 
-# USe case and Info
+# Use case and Info
 ```bash
 python Evil_SQLi.py --help
 ```
