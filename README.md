@@ -16,7 +16,7 @@
 ## Installation
 Step I <br>
 ```bash
-git clone https://github.com/username/Evil-SQLi-Scanner.git
+git clone https://github.com/legendevil849/sqli_scanner_project.git
 ```
 Step II <br><br>
 Go to the Sqli Scanner Directory <br><br>
