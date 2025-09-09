@@ -13,6 +13,10 @@
 * -Oracle
 * -SQLite
 
+## Exploitation
+* -Version Extraction
+* -User Extraction
+
 ## Installation
 Step I <br>
 ```bash
