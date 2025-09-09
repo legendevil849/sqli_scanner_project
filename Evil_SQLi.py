@@ -26,7 +26,7 @@ def Symbol():
         text = "Evil SQLi"
         ascii_art = pyfiglet.figlet_format(text, font="graffiti", width=200, justify="left")
     except Exception:
-        ascii_art = "=== Evil SQLi ==="
+        ascii_art = " Evil SQLi "
 
     warning1 = "[!] WARNING: This tool should only be used on systems you own or have explicit permission to test."
     warning2 = "[!] Unauthorized testing is illegal and unethical."
@@ -1234,3 +1234,4 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         print()
         warn("Interrupted by user.")
+
