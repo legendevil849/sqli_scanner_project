@@ -13,6 +13,9 @@
 * -Oracle
 * -SQLite
 
+## DVWA Lab Integration
+* It comes with dvwa (Damn Vulnerable Web Apps) lab for testing porposes
+
 ## Exploitation
 * -Version Extraction
 * -User Extraction
